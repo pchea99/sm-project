@@ -2,9 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android" name="Android">
-      <configuration>
-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
-      </configuration>
+      <configuration />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -13,36 +11,24 @@
       <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="R3" level="project" />
+    <orderEntry type="library" name="classes" level="project" />
+    <orderEntry type="library" name="R1" level="project" />
     <orderEntry type="library" name="release" level="project" />
     <orderEntry type="library" name="release1" level="project" />
-    <orderEntry type="library" name="debug4" level="project" />
-    <orderEntry type="library" name="release6" level="project" />
-    <orderEntry type="library" name="classes4" level="project" />
-    <orderEntry type="library" name="debug2" level="project" />
-    <orderEntry type="library" name="debug3" level="project" />
-    <orderEntry type="library" name="debug5" level="project" />
+    <orderEntry type="library" name="release2" level="project" />
     <orderEntry type="library" name="release4" level="project" />
+    <orderEntry type="library" name="classes3" level="project" />
     <orderEntry type="library" name="classes1" level="project" />
     <orderEntry type="library" name="classes2" level="project" />
-    <orderEntry type="library" name="classes7" level="project" />
-    <orderEntry type="library" name="release2" level="project" />
-    <orderEntry type="library" name="debug1" level="project" />
-    <orderEntry type="library" name="classes3" level="project" />
-    <orderEntry type="library" name="debug6" level="project" />
-    <orderEntry type="library" name="classes6" level="project" />
-    <orderEntry type="library" name="release3" level="project" />
-    <orderEntry type="library" name="classes" level="project" />
-    <orderEntry type="library" name="classes5" level="project" />
-    <orderEntry type="module" module-name="buildConfig2" />
-    <orderEntry type="module" module-name="r" />
-    <orderEntry type="module" module-name="buildConfig3" />
+    <orderEntry type="library" name="R" level="project" />
+    <orderEntry type="library" name="R2" level="project" />
+    <orderEntry type="module" module-name="processReleaseResources" />
     <orderEntry type="module" module-name="buildConfig4" />
-    <orderEntry type="module" module-name="r1" />
-    <orderEntry type="module" module-name="r2" />
+    <orderEntry type="module" module-name="buildConfig3" />
     <orderEntry type="module" module-name="buildConfig1" />
-    <orderEntry type="module" module-name="r4" />
-    <orderEntry type="module" module-name="r3" />
+    <orderEntry type="module" module-name="buildConfig2" />
   </component>
 </module>

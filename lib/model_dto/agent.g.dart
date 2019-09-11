@@ -23,7 +23,7 @@ Agent _$AgentFromJson(Map json) {
     ..personalPhone = json['personal_phone'].toString()
     ..masterSim = json['master_sim'].toString()
     ..masterSimPwd = json['master_sim_password'].toString()
-    ..registerSim = json['master_sim_password'].toString()
+    ..registerSim = json['register_sim'].toString()
     ..slaveSim = json['slave_sim'].toString()
     ..slaveSimPwd = json['slave_sim_password'].toString()
     ..entryDate = json['entry_date'].toString()
