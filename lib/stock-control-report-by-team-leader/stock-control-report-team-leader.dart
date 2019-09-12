@@ -120,7 +120,7 @@ class _StockControlReportByTeamLeaderState extends State<StockControlReportByTea
                 label: StringRes.remainingStockTeamLeaderToday,
             ),
           ],
-        )
+        ),
     );
   }
 
