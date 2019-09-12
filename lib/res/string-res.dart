@@ -59,8 +59,8 @@ class StringRes{
   static final String retailerPhone = "លេខទូរស័ព្ទម្ចាស់តូប";
   static final String totalDistribution = "សរុប ស៊ីមចែកបាន";
   static final String totalTopUp = "សរុបលក់កាតបាន";
-  static final String remainingStockAgent = "ស្តុករបស់ Agent ដែលនៅសល់";
-  static final String remainStockTeamLeader = "ស្តុករបស់ Leader ដែលនៅសល់";
+  static final String remainingStockAgent = "ស្តុករបស់កូនក្រុមដែលនៅសល់";
+  static final String remainStockTeamLeader = "ស្តុករបស់មេក្រុមដែលនៅសល់";
   static final String totalRemainingStock = "សរុប ស្តុក ដែលនៅសល់ចុងក្រោយទាំងអស់";
   static final String initialStock = "ស្តុកដើមដែលមានក្នុងដៃ មេក្រុម";
   static final String remainingStockTeamLeadYesterday = "ស្តុកដែលនៅសល់ នឹងមេក្រុមតាំងពីម្សិលមិញ";
