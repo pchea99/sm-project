@@ -213,7 +213,7 @@ class _StockControlReportByTeamLeaderState extends State<StockControlReportByTea
         ..stock.totalTopup = 0.0
         ..stock.totalDistribution = 0.0
         ..stock.remainStockAgent = 0.0
-        ..stock.remainStockTeamLeader = 0.0
+        ..stock.remainStockTeamLeader = double.parse(_controllerRemainingStockAtTeamLeaderForToday.text.toString())
         ..stock.totalRemainStock = double.parse(_controllerRemainingStockAtTeamLeaderForToday.text.toString())
       ;
     }else{
@@ -228,7 +228,7 @@ class _StockControlReportByTeamLeaderState extends State<StockControlReportByTea
         ..stock.remainStockTeamLeader = double.parse(_controllerRemainingStockAtTeamLeaderForToday.text.toString())
       ;
 
-      _dailySummary = summary;
+        _dailySummary = summary;
     }
 
     NetworkService.insertDailySummary(_dailySummary);
